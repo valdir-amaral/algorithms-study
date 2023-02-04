@@ -16,7 +16,7 @@ def pesquisa_binaria(lista, item):
 
         else:
             baixo = meio + 1
-
+            
     return None
 
 print(pesquisa_binaria([1, 2, 3, 4, 5], 2))
